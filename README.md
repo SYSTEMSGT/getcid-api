@@ -14,7 +14,7 @@ Puedes usar Postman para probar esta API. Crea una colección con variables:
 - **token**: Tu token privado
 - **iid**: El identificador de instalación
 - Usa esta URL en tus requests:
-<pre>https://api.systems.gt/getcid-api/getcid?token=**{{token}}**&iid=**{{iid}}**</pre>
+<pre>https://api.systems.gt/getcid-api/getcid?token={{token}}&iid={{iid}}</pre>
 
 
 ## Respuesta
