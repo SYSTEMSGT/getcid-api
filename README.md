@@ -2,6 +2,7 @@ GET https://api.systems.gt/getcid-api/getcid
 
 Parámetros requeridos
 | Parámetro | Tipo | Obligatorio | Descripción | 
+| ------- | ---- | -------- | -------- |
 | token | string | ✅ Sí | Token asignado al cliente | 
 | iid | string | ✅ Sí | ID único de instalación | 
 
