@@ -1,3 +1,4 @@
+# GETCID API - SYSTEMSGT
 GET https://api.systems.gt/getcid-api/getcid
 
 Parámetros requeridos
