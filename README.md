@@ -17,9 +17,9 @@ Puedes usar Postman para probar esta API. Crea una colección con variables:
 <pre>https://api.systems.gt/getcid-api/getcid?token={{token}}&iid={{iid}}</pre>
 
 
-## Respuesta
+## Respuesta JSON
 <pre>{
-  "cid": "111111-111111-111111-111111-111111-111111-111111-111111",
+  "iid": "111111-111111-111111-111111-111111-111111-111111-111111",
   "c_cid": "111111111111111111111111111111111111111111111111"
 }</pre>
 
