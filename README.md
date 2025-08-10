@@ -28,7 +28,8 @@ Puedes usar Postman para probar esta API. Crea una colección con variables:
 | ------- | ---- |
 | 200 | OK – Solicitud exitosa | 
 | 400 | Solicitud mal formada o incompleta | 
-| 401 | Token inválido o no autorizado | 
+| 401 | Token no autorizado | 
+| 404 | Not Found | 
 | 500 | Error interno del servidor |
 
 ### Notas adicionales
